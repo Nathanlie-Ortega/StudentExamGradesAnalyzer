@@ -48,7 +48,7 @@ A C console app by Nathanlie Ortega that reads scores from grades.dat, calculate
 ## Expected Output:
 ``````````````````````````````````````````````````````
 +-------------------------------------------------+
-|      Number Guessing Game                       |
+|      Student Exam Grades Analyzer               |
 |      Author name: Nathanlie Ortega              |
 |      NathanlieOrtega.Dev@gmail.com              |
 +-------------------------------------------------+
